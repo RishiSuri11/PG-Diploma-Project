@@ -1,1 +1,5 @@
-sddbdb
+LIDAR - Stands for LIGHT DETECTIONS And RANGING is a time of flight sensor that basically Emits laser light  beams in Infrared region and that beams travelled and strike to obstacle and it bounce 
+back so we find that time from its emmisiion and reception of that bounce back signal using that time we can calculate the distance.
+
+In Our Project it is basically used to find the distance between the vehicle and suddedn comming of  human  ans Animal infront of us .So After recption of data of distance from  sensors it 
+signal  to microcontroller active braking system and if it too close it activate the Airbags and ADAS system to avoid crash.
