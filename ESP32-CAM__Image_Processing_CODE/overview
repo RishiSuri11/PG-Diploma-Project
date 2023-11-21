@@ -1,0 +1,2 @@
+ESP32-CAM is a module which is basically loaded with Image processing that processes the live images of objects in load and if in road it find SCHOOL and HOSPITAL images then using data it signals main stm32 control to slow the speed and 
+decreses the sound of horn in HOSPITAL Regions.
