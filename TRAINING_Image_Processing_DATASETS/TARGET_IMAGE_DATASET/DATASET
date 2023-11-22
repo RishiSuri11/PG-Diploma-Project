@@ -1,0 +1,2 @@
+COLOURED IMAGES which is used to check trained machine learning model if it really detect Something or Not.
+If it detect something then send image data to esp32-CAM to STM32F407 Microcontroller.
